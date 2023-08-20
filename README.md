@@ -1,2 +1,26 @@
 # bea-mariano.github.io
-This is a sample home page of the github page site
+Repository of Computer Science knowledge.
+
+## R
+
+## Python
+
+### Python Pandas
+
+### Python Django
+
+### Python Selenium
+
+### Python Spark
+
+## Web Development
+
+### HTML
+
+### CSS
+
+### Javascript
+
+## Data Engineering
+
+## Computer Science Fundamentals
