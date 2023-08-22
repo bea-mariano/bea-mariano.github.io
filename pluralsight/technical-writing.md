@@ -102,6 +102,37 @@ Technical Writing
 4. Test Plans/Test Cases - define the approach to testing; expose errors or demonstrate correct behaviour
 4. End-User Guide - enable task completion; provide support and troubleshooting
 
+### August 21, 2023
+19:00 - 19:30
+
+**Audience**
+1. Who will be reading it (demographics)?
+2. What do they already know?
+3. Why are they going to be reading it?
+4. In what environment will they be reading it?
+5. What is their state of mind?
+    - set based on the situation
+6. What do they need to know?
+7. What tone is approproate for writing?
+    - depends on where you are working and who you are talking to
+
+- Get the demographics of the readers
+    - Nationality
+    - Medium
+    - Technical Knowledge level
+
+![Alt text](image-2.png)
+
+**Multiple Audiences**
+1. Determine Primary Audience and Secondary Audience
+    - Primary Audience - target reader, requested the document, often a decision maker
+    - Secondary Audience - may come into contact with the document but the intended reader
+2. Best to create separate documents for each type of audience
+
+**Delivery**
+- what is the best way to deliver the information to the audience?
+- think about how and where the people with documentation will use them
+
 
 
 
